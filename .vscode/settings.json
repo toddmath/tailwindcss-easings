@@ -1,0 +1,8 @@
+{
+  "files.watcherExclude": {
+    "**/.dart_tool": true,
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/node_modules": true
+  }
+}
